@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

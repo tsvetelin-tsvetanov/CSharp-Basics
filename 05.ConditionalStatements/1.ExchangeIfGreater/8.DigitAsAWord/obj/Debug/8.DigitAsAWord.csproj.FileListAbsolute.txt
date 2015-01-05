@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\bin\Debug\8.DigitAsAWord.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\bin\Debug\8.DigitAsAWord.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\bin\Debug\8.DigitAsAWord.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\obj\Debug\8.DigitAsAWord.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\obj\Debug\8.DigitAsAWord.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\bin\Debug\8.DigitAsAWord.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\8.DigitAsAWord\bin\Debug\8.DigitAsAWord.exe.lastcodeanalysissucceeded

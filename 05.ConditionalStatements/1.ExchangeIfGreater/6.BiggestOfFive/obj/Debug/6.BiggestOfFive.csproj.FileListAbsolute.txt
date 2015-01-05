@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\bin\Debug\6.BiggestOfFive.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\bin\Debug\6.BiggestOfFive.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\bin\Debug\6.BiggestOfFive.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\obj\Debug\6.BiggestOfFive.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\obj\Debug\6.BiggestOfFive.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\bin\Debug\6.BiggestOfFive.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\6.BiggestOfFive\bin\Debug\6.BiggestOfFive.exe.lastcodeanalysissucceeded

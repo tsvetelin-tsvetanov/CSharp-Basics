@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\bin\Debug\2.BonusScore.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\bin\Debug\2.BonusScore.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\obj\Debug\2.BonusScore.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\obj\Debug\2.BonusScore.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\bin\Debug\2.BonusScore.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\2.BonusScore\bin\Debug\2.BonusScore.exe.lastcodeanalysissucceeded

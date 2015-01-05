@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\obj\Debug\3.CheckForAPlayCard.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\3.CheckForAPlayCard\bin\Debug\3.CheckForAPlayCard.exe.lastcodeanalysissucceeded

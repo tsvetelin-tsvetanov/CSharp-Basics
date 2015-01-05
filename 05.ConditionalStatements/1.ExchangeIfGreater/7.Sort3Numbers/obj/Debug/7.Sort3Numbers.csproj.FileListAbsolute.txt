@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe.lastcodeanalysissucceeded

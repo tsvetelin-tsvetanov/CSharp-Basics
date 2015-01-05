@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe.lastcodeanalysissucceeded

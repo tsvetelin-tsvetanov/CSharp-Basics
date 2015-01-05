@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\10.BeerTime\bin\Debug\10.BeerTime.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\10.BeerTime\bin\Debug\10.BeerTime.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\10.BeerTime\obj\Debug\10.BeerTime.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\10.BeerTime\obj\Debug\10.BeerTime.pdb

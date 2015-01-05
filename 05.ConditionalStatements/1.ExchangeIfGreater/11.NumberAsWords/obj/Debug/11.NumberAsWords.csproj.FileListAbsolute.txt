@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\bin\Debug\5.TheBiggestOfThree.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\bin\Debug\5.TheBiggestOfThree.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\bin\Debug\5.TheBiggestOfThree.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\obj\Debug\5.TheBiggestOfThree.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\obj\Debug\5.TheBiggestOfThree.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\bin\Debug\5.TheBiggestOfThree.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\5.TheBiggestOfThree\bin\Debug\5.TheBiggestOfThree.exe.lastcodeanalysissucceeded

@@ -1,0 +1,8 @@
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe.config
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.exe
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.pdb
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe.CodeAnalysisLog.xml
+D:\SoftUni Homeworks\5.ConditionalStatements\1.ExchangeIfGreater\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe.lastcodeanalysissucceeded

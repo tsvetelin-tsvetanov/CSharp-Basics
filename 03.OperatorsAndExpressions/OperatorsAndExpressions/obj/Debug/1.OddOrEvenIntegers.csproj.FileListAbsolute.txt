@@ -1,0 +1,9 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\1.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\OperatorsAndExpressions.exe.config
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.exe
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb

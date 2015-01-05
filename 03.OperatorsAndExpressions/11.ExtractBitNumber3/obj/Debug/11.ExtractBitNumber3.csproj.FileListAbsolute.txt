@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\11.ExtractBitNumber3\bin\Debug\11.ExtractBitNumber3.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\11.ExtractBitNumber3\bin\Debug\11.ExtractBitNumber3.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\11.ExtractBitNumber3\bin\Debug\11.ExtractBitNumber3.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\11.ExtractBitNumber3\obj\Debug\11.ExtractBitNumber3.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\11.ExtractBitNumber3\obj\Debug\11.ExtractBitNumber3.pdb

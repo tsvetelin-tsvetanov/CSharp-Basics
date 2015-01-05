@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\3.DivideBySevenAndFive\bin\Debug\3.DivideBySevenAndFive.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\3.DivideBySevenAndFive\bin\Debug\3.DivideBySevenAndFive.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\3.DivideBySevenAndFive\bin\Debug\3.DivideBySevenAndFive.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\3.DivideBySevenAndFive\obj\Debug\3.DivideBySevenAndFive.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\3.DivideBySevenAndFive\obj\Debug\3.DivideBySevenAndFive.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\3.DivideBySevenAndFive\obj\Debug\3.DivideBySevenAndFive.pdb

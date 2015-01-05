@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\6.FourDigitNumber\bin\Debug\6.FourDigitNumber.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\6.FourDigitNumber\obj\Debug\6.FourDigitNumber.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\8.PrimeNumberCheck\bin\Debug\8.PrimeNumberCheck.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb

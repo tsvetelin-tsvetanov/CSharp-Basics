@@ -1,0 +1,12 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache

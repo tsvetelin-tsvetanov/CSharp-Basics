@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\4.Rectangles\bin\Debug\4.Rectangles.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\4.Rectangles\bin\Debug\4.Rectangles.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\4.Rectangles\obj\Debug\4.Rectangles.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\4.Rectangles\obj\Debug\4.Rectangles.pdb

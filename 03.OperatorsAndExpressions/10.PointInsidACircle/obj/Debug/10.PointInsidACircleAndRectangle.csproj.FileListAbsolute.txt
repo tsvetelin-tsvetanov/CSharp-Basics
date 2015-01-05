@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\10.PointInsidACircle\bin\Debug\10.PointInsidACircle.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\10.PointInsidACircle\bin\Debug\10.PointInsidACircle.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\10.PointInsidACircle\bin\Debug\10.PointInsidACircle.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\10.PointInsidACircle\obj\Debug\10.PointInsidACircleAndRectangle.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\10.PointInsidACircle\obj\Debug\10.PointInsidACircle.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\10.PointInsidACircle\obj\Debug\10.PointInsidACircle.pdb

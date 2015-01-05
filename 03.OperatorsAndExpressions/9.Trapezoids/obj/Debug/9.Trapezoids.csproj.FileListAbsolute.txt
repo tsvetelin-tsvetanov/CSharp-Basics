@@ -1,0 +1,9 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.pdb
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.exe
+D:\SoftUni Homeworks\3.OperatorsAndExpressions\OperatorsAndExpressions\9.Trapezoids\obj\Debug\9.Trapezoids.pdb

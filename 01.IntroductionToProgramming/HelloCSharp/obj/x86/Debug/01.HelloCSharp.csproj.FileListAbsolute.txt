@@ -1,0 +1,5 @@
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\HelloCSharp\obj\x86\Debug\HelloCSharp.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\HelloCSharp\obj\x86\Debug\HelloCSharp.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\HelloCSharp\obj\x86\Debug\01.HelloCSharp.csprojResolveAssemblyReference.cache

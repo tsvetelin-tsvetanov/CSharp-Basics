@@ -1,0 +1,4 @@
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\SquareRoot\obj\x86\Debug\SquareRoot.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\SquareRoot\obj\x86\Debug\SquareRoot.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\SquareRoot\bin\Debug\SquareRoot.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\SquareRoot\bin\Debug\SquareRoot.pdb

@@ -1,0 +1,4 @@
+D:\SoftUni Homeworks\First Homework\Solution1\PrintMyName\bin\Debug\PrintMyName.exe
+D:\SoftUni Homeworks\First Homework\Solution1\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\SoftUni Homeworks\First Homework\Solution1\PrintMyName\obj\x86\Debug\PrintMyName.exe
+D:\SoftUni Homeworks\First Homework\Solution1\PrintMyName\obj\x86\Debug\PrintMyName.pdb

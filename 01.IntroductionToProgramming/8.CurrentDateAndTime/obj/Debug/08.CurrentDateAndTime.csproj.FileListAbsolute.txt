@@ -1,0 +1,3 @@
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\8.CurrentDateAndTime\bin\Debug\8.CurrentDateAndTime.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\8.CurrentDateAndTime\obj\Debug\8.CurrentDateAndTime.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\8.CurrentDateAndTime\obj\Debug\8.CurrentDateAndTime.pdb

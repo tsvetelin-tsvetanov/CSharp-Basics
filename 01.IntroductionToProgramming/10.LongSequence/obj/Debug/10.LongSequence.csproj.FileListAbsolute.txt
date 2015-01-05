@@ -1,0 +1,12 @@
+D:\SoftUni Homeworks\First Homework\Solution1\10.LongSequence\bin\Debug\10.LongSequence.exe.config
+D:\SoftUni Homeworks\First Homework\Solution1\10.LongSequence\bin\Debug\10.LongSequence.exe
+D:\SoftUni Homeworks\First Homework\Solution1\10.LongSequence\bin\Debug\10.LongSequence.pdb
+D:\SoftUni Homeworks\First Homework\Solution1\10.LongSequence\obj\Debug\10.LongSequence.exe
+D:\SoftUni Homeworks\First Homework\Solution1\10.LongSequence\obj\Debug\10.LongSequence.pdb
+D:\SoftUni Homeworks\First Homework\Solution1\10.LongSequence\obj\Debug\10.LongSequence.csprojResolveAssemblyReference.cache
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\10.LongSequence\bin\Debug\10.LongSequence.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\10.LongSequence\obj\Debug\10.LongSequence.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\10.LongSequence\obj\Debug\10.LongSequence.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\10.LongSequence\bin\Debug\10.LongSequence.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\10.LongSequence\bin\Debug\10.LongSequence.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\10.LongSequence\obj\Debug\10.LongSequence.csprojResolveAssemblyReference.cache

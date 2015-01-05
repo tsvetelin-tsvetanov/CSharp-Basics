@@ -1,0 +1,9 @@
+D:\SoftUni Homeworks\First Homework\Solution1\7.FirstTenMembers\obj\Debug\6.FirstTenMembers.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.exe.config
+D:\SoftUni Homeworks\First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.exe
+D:\SoftUni Homeworks\First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.pdb
+D:\SoftUni Homeworks\First Homework\Solution1\7.FirstTenMembers\obj\Debug\7.FirstTenMembers.exe
+D:\SoftUni Homeworks\First Homework\Solution1\7.FirstTenMembers\obj\Debug\7.FirstTenMembers.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\obj\Debug\7.FirstTenMembers.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\obj\Debug\7.FirstTenMembers.pdb

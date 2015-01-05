@@ -1,0 +1,4 @@
+D:\SoftUni Homeworks\First Homework\Solution1\ReformatCSCode\obj\x86\Debug\ReformatCSCode.exe
+D:\SoftUni Homeworks\First Homework\Solution1\ReformatCSCode\obj\x86\Debug\ReformatCSCode.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\ReformatCSCode\obj\x86\Debug\ReformatCSCode.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\ReformatCSCode\obj\x86\Debug\ReformatCSCode.pdb

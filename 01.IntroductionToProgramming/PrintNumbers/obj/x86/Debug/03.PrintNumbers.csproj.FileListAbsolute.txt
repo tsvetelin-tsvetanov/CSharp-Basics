@@ -1,0 +1,4 @@
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintNumbers\obj\x86\Debug\PrintNumbers.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintNumbers\obj\x86\Debug\PrintNumbers.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintNumbers\bin\Debug\PrintNumbers.pdb

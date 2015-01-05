@@ -1,0 +1,6 @@
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\obj\Debug\7.FirstTenMembers.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\obj\Debug\7.FirstTenMembers.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\bin\Debug\7.FirstTenMembers.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\7.FirstTenMembers\obj\Debug\06.FirstTenMembers.csprojResolveAssemblyReference.cache

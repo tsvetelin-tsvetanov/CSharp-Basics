@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\First Homework\Solution1\11.NumbersFrom1To1000\bin\Debug\11.NumbersFrom1To1000.exe.config
+D:\SoftUni Homeworks\First Homework\Solution1\11.NumbersFrom1To1000\bin\Debug\11.NumbersFrom1To1000.exe
+D:\SoftUni Homeworks\First Homework\Solution1\11.NumbersFrom1To1000\bin\Debug\11.NumbersFrom1To1000.pdb
+D:\SoftUni Homeworks\First Homework\Solution1\11.NumbersFrom1To1000\obj\Debug\11.NumbersFrom1To1000.exe
+D:\SoftUni Homeworks\First Homework\Solution1\11.NumbersFrom1To1000\obj\Debug\11.NumbersFrom1To1000.pdb

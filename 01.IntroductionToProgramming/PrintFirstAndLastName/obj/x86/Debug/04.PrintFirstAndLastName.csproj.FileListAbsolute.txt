@@ -1,0 +1,4 @@
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintFirstAndLastName\obj\x86\Debug\PrintFirstAndLastName.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintFirstAndLastName\obj\x86\Debug\PrintFirstAndLastName.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\1.First Homework\Solution1\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\03.Sunglasses\bin\Debug\03.Sunglasses.exe.config
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\03.Sunglasses\obj\Debug\03.Sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\03.Sunglasses\bin\Debug\03.Sunglasses.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\03.Sunglasses\bin\Debug\03.Sunglasses.pdb
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\03.Sunglasses\obj\Debug\03.Sunglasses.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\03.Sunglasses\obj\Debug\03.Sunglasses.pdb

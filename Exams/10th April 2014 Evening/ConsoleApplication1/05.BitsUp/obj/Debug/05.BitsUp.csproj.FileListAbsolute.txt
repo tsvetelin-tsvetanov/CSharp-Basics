@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\05.BitsUp\bin\Debug\05.BitsUp.exe.config
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\05.BitsUp\bin\Debug\05.BitsUp.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\05.BitsUp\bin\Debug\05.BitsUp.pdb
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\05.BitsUp\obj\Debug\05.BitsUp.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\05.BitsUp\obj\Debug\05.BitsUp.pdb

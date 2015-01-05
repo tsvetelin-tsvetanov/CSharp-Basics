@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.exe.config
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\04.HayvanNumbers\bin\Debug\04.HayvanNumbers.pdb
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\04.HayvanNumbers\obj\Debug\04.HayvanNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\04.HayvanNumbers\obj\Debug\04.HayvanNumbers.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\04.HayvanNumbers\obj\Debug\04.HayvanNumbers.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\03.DrawFigure\bin\Debug\03.DrawFigure.exe.config
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\03.DrawFigure\bin\Debug\03.DrawFigure.exe
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\03.DrawFigure\bin\Debug\03.DrawFigure.pdb
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\03.DrawFigure\obj\Debug\03.DrawFigure.exe
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\03.DrawFigure\obj\Debug\03.DrawFigure.pdb

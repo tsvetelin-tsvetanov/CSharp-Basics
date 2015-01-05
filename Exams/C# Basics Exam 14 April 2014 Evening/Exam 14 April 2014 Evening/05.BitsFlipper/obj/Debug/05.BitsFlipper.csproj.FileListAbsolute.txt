@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\05.BitsFlipper\bin\Debug\05.BitsFlipper.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\05.BitsFlipper\obj\Debug\05.BitsFlipper.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\05.BitsFlipper\bin\Debug\05.BitsFlipper.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\05.BitsFlipper\bin\Debug\05.BitsFlipper.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\05.BitsFlipper\obj\Debug\05.BitsFlipper.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\05.BitsFlipper\obj\Debug\05.BitsFlipper.pdb

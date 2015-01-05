@@ -1,0 +1,12 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\bin\Debug\03.WineGlass.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\bin\Debug\03.WineGlass.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\bin\Debug\03.WineGlass.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\obj\Debug\03.WineGlass.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\obj\Debug\03.WineGlass.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\obj\Debug\03.WineGlass.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\bin\Debug\03.WineGlass.exe.config
+C:\New folder\тъдъ\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\obj\Debug\03.WineGlass.exe
+C:\New folder\тъдъ\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\obj\Debug\03.WineGlass.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\bin\Debug\03.WineGlass.exe
+C:\New folder\тъдъ\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\bin\Debug\03.WineGlass.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\03.WineGlass\obj\Debug\03.WineGlass.csprojResolveAssemblyReference.cache

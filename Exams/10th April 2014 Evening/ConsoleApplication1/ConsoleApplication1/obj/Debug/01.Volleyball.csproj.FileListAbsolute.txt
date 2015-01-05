@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\ConsoleApplication1\obj\Debug\01.Volleyball.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 25 July 2014 Evening\Exam 25 July 2014 Evening\03.HouseWithAWindow\bin\Debug\03.HouseWithAWindow.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 25 July 2014 Evening\Exam 25 July 2014 Evening\03.HouseWithAWindow\bin\Debug\03.HouseWithAWindow.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 25 July 2014 Evening\Exam 25 July 2014 Evening\03.HouseWithAWindow\bin\Debug\03.HouseWithAWindow.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 25 July 2014 Evening\Exam 25 July 2014 Evening\03.HouseWithAWindow\obj\Debug\03.HouseWithAWindow.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 25 July 2014 Evening\Exam 25 July 2014 Evening\03.HouseWithAWindow\obj\Debug\03.HouseWithAWindow.pdb

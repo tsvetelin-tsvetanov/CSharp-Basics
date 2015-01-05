@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\02.SimpleLoop\bin\Debug\02.SimpleLoop.exe.config
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\02.SimpleLoop\bin\Debug\02.SimpleLoop.exe
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\02.SimpleLoop\bin\Debug\02.SimpleLoop.pdb
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\02.SimpleLoop\obj\Debug\02.SimpleLoop.exe
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\02.SimpleLoop\obj\Debug\02.SimpleLoop.pdb
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\02.SimpleLoop\obj\Debug\02.SimpleLoop.csprojResolveAssemblyReference.cache

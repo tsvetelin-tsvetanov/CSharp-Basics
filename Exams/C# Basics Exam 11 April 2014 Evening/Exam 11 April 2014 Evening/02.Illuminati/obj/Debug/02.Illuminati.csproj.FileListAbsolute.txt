@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\02.Illuminati\obj\Debug\02.Illuminati.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\02.Illuminati\obj\Debug\02.Illuminati.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\02.Illuminati\obj\Debug\02.Illuminati.pdb

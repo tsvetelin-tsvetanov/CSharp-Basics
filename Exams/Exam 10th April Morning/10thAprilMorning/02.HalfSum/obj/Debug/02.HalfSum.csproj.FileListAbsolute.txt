@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\02.HalfSum\bin\Debug\02.HalfSum.exe.config
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\02.HalfSum\bin\Debug\02.HalfSum.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\02.HalfSum\bin\Debug\02.HalfSum.pdb
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\02.HalfSum\obj\Debug\02.HalfSum.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\02.HalfSum\obj\Debug\02.HalfSum.pdb

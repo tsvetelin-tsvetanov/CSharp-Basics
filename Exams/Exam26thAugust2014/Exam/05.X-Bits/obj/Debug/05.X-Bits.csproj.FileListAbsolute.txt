@@ -1,0 +1,8 @@
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\05.X-Bits\bin\Debug\05.X-Bits.exe.config
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\05.X-Bits\bin\Debug\05.X-Bits.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\05.X-Bits\bin\Debug\05.X-Bits.pdb
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\05.X-Bits\obj\Debug\05.X-Bits.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\05.X-Bits\obj\Debug\05.X-Bits.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\05.X-Bits\bin\Debug\05.X-Bits.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\05.X-Bits\obj\Debug\05.X-Bits.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\05.X-Bits\obj\Debug\05.X-Bits.pdb

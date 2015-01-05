@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\01.MelonsAndWaterMelons\bin\Debug\01.MelonsAndWaterMelons.exe.config
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\01.MelonsAndWaterMelons\bin\Debug\01.MelonsAndWaterMelons.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\01.MelonsAndWaterMelons\bin\Debug\01.MelonsAndWaterMelons.pdb
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\01.MelonsAndWaterMelons\obj\Debug\01.MelonsAndWaterMelons.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\01.MelonsAndWaterMelons\obj\Debug\01.MelonsAndWaterMelons.pdb

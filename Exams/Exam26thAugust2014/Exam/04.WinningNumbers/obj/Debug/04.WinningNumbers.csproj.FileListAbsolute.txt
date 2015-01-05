@@ -1,0 +1,9 @@
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe.config
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\04.WinningNumbers\bin\Debug\04.WinningNumbers.pdb
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\04.WinningNumbers\obj\Debug\04.WinningNumbers.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\04.WinningNumbers\obj\Debug\04.WinningNumbers.pdb
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\04.WinningNumbers\obj\Debug\04.WinningNumbers.csprojResolveAssemblyReference.cache
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\04.WinningNumbers\obj\Debug\04.WinningNumbers.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\04.WinningNumbers\obj\Debug\04.WinningNumbers.pdb

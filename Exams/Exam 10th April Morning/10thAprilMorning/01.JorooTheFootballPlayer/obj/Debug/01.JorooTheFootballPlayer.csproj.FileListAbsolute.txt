@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\01.JorooTheFootballPlayer\bin\Debug\01.JorooTheFootballPlayer.exe.config
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\01.JorooTheFootballPlayer\bin\Debug\01.JorooTheFootballPlayer.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\01.JorooTheFootballPlayer\bin\Debug\01.JorooTheFootballPlayer.pdb
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\01.JorooTheFootballPlayer\obj\Debug\01.JorooTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\01.JorooTheFootballPlayer\obj\Debug\01.JorooTheFootballPlayer.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\01.JorooTheFootballPlayer\obj\Debug\01.JorooTheFootballPlayer.pdb

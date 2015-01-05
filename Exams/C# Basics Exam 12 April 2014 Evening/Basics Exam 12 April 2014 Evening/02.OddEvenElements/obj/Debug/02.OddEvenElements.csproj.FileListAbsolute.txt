@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Evening\Basics Exam 12 April 2014 Evening\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Evening\Basics Exam 12 April 2014 Evening\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Evening\Basics Exam 12 April 2014 Evening\02.OddEvenElements\bin\Debug\02.OddEvenElements.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Evening\Basics Exam 12 April 2014 Evening\02.OddEvenElements\obj\Debug\02.OddEvenElements.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Evening\Basics Exam 12 April 2014 Evening\02.OddEvenElements\obj\Debug\02.OddEvenElements.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Evening\Basics Exam 12 April 2014 Evening\02.OddEvenElements\obj\Debug\02.OddEvenElements.pdb

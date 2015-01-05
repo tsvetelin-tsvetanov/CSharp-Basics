@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\01.InsideTheBuilding\obj\Debug\01.InsideTheBuilding.pdb

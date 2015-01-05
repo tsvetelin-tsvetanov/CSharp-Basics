@@ -1,0 +1,1 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\04.LongestAlphabeticalWord\bin\Debug\04.LongestAlphabeticalWord.exe.config

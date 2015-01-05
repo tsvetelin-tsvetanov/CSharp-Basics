@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\04.CrossingSequencies\bin\Debug\04.CrossingSequencies.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\04.CrossingSequencies\bin\Debug\04.CrossingSequencies.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\04.CrossingSequencies\bin\Debug\04.CrossingSequencies.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\04.CrossingSequencies\obj\Debug\04.CrossingSequencies.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\04.CrossingSequencies\obj\Debug\04.CrossingSequencies.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 11 April 2014 Evening\Exam 11 April 2014 Evening\04.CrossingSequencies\obj\Debug\04.CrossingSequencies.csprojResolveAssemblyReference.cache

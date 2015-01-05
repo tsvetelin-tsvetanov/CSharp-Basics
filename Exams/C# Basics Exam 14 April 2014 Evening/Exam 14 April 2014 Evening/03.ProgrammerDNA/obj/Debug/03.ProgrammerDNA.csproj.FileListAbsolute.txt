@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\03.ProgrammerDNA\obj\Debug\03.ProgrammerDNA.pdb

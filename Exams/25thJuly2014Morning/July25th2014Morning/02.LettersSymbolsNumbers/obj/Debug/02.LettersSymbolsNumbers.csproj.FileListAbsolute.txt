@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe.config
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.pdb
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.pdb

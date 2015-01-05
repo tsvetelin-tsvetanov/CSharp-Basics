@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\05.BitsKiller\bin\Debug\05.BitsKiller.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\05.BitsKiller\bin\Debug\05.BitsKiller.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\05.BitsKiller\bin\Debug\05.BitsKiller.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\05.BitsKiller\obj\Debug\05.BitsKiller.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\05.BitsKiller\obj\Debug\05.BitsKiller.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\05.BitsKiller\obj\Debug\05.BitsKiller.pdb

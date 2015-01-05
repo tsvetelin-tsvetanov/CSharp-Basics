@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\02.BiggestTripple\bin\Debug\02.BiggestTripple.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\02.BiggestTripple\bin\Debug\02.BiggestTripple.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\02.BiggestTripple\bin\Debug\02.BiggestTripple.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\02.BiggestTripple\obj\Debug\02.BiggestTripple.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\02.BiggestTripple\obj\Debug\02.BiggestTripple.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Morning\Basics Exam 14 April 2014 Morning\02.BiggestTripple\obj\Debug\02.BiggestTripple.pdb

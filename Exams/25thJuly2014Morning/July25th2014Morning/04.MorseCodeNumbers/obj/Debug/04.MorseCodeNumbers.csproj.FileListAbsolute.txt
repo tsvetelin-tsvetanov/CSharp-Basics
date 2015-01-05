@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.exe.config
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.pdb
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\04.MorseCodeNumbers\obj\Debug\04.MorseCodeNumbers.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\04.MorseCodeNumbers\obj\Debug\04.MorseCodeNumbers.pdb

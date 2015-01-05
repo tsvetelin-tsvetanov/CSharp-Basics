@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\04.NineDigitMagicNumber\bin\Debug\04.NineDigitMagicNumber.exe.config
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\04.NineDigitMagicNumber\bin\Debug\04.NineDigitMagicNumber.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\04.NineDigitMagicNumber\bin\Debug\04.NineDigitMagicNumber.pdb
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\04.NineDigitMagicNumber\obj\Debug\04.NineDigitMagicNumber.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\04.NineDigitMagicNumber\obj\Debug\04.NineDigitMagicNumber.pdb

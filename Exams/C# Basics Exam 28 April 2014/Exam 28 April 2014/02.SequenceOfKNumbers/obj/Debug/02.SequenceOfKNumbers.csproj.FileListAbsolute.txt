@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 28 April 2014\Exam 28 April 2014\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 28 April 2014\Exam 28 April 2014\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 28 April 2014\Exam 28 April 2014\02.SequenceOfKNumbers\bin\Debug\02.SequenceOfKNumbers.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 28 April 2014\Exam 28 April 2014\02.SequenceOfKNumbers\obj\Debug\02.SequenceOfKNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 28 April 2014\Exam 28 April 2014\02.SequenceOfKNumbers\obj\Debug\02.SequenceOfKNumbers.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 28 April 2014\Exam 28 April 2014\02.SequenceOfKNumbers\obj\Debug\02.SequenceOfKNumbers.pdb

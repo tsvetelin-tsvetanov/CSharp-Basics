@@ -1,0 +1,16 @@
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.exe.config
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.pdb
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.exe.config
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.exe
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.exe
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\03.Star\bin\Debug\03.Star.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\03.Star\obj\Debug\03.Star.csprojResolveAssemblyReference.cache

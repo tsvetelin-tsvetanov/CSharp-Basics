@@ -1,0 +1,18 @@
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.exe.config
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.pdb
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.exe
+D:\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.exe.config
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.exe
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.exe
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.pdb
+C:\New folder\тъдъ\SoftUni Homeworks\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.csprojResolveAssemblyReference.cache
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.exe.config
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.exe
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\01.Tic-TacToePower\bin\Debug\01.Tic-TacToePower.pdb
+C:\SoftUni Homeworks\Level #0\C# Basics\Exam26thAugust2014\Exam\01.Tic-TacToePower\obj\Debug\01.Tic-TacToePower.csprojResolveAssemblyReference.cache

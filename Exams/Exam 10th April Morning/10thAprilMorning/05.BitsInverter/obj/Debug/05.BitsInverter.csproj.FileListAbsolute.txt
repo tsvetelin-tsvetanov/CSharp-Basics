@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\05.BitsInverter\bin\Debug\05.BitsInverter.exe.config
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\05.BitsInverter\bin\Debug\05.BitsInverter.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\05.BitsInverter\bin\Debug\05.BitsInverter.pdb
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\05.BitsInverter\obj\Debug\05.BitsInverter.exe
+D:\SoftUni Homeworks\Judge\Exam 10th April Morning\10thAprilMorning\05.BitsInverter\obj\Debug\05.BitsInverter.pdb

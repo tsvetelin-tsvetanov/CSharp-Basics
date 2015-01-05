@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\02.Pairs\bin\Debug\02.Pairs.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\02.Pairs\bin\Debug\02.Pairs.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\02.Pairs\bin\Debug\02.Pairs.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\02.Pairs\obj\Debug\02.Pairs.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\02.Pairs\obj\Debug\02.Pairs.pdb

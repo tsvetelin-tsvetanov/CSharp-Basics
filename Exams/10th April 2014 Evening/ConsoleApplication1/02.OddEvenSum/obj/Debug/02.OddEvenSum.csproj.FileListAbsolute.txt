@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe.config
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\02.OddEvenSum\bin\Debug\02.OddEvenSum.pdb
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+D:\SoftUni Homeworks\Judge\10th April 2014 Evening\ConsoleApplication1\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb

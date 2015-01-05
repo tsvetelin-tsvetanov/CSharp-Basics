@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\03.PandaScotlandFlag\bin\Debug\03.PandaScotlandFlag.exe.config
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\03.PandaScotlandFlag\bin\Debug\03.PandaScotlandFlag.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\03.PandaScotlandFlag\bin\Debug\03.PandaScotlandFlag.pdb
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\03.PandaScotlandFlag\obj\Debug\03.PandaScotlandFlag.exe
+D:\SoftUni Homeworks\Judge\25thJuly2014Morning\July25th2014Morning\03.PandaScotlandFlag\obj\Debug\03.PandaScotlandFlag.pdb

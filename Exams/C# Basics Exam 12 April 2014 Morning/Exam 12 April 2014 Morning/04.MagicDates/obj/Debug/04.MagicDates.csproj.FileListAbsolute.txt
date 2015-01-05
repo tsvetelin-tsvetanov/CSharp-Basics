@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\04.MagicDates\bin\Debug\04.MagicDates.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\04.MagicDates\bin\Debug\04.MagicDates.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\04.MagicDates\bin\Debug\04.MagicDates.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\04.MagicDates\obj\Debug\04.MagicDates.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\04.MagicDates\obj\Debug\04.MagicDates.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 12 April 2014 Morning\Exam 12 April 2014 Morning\04.MagicDates\obj\Debug\04.MagicDates.pdb

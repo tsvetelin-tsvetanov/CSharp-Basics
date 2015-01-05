@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe.config
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.pdb
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.exe
+D:\SoftUni Homeworks\Judge\May 2014\Exam May 2014\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.pdb

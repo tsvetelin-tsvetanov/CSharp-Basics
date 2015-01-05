@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\02.StudentCables\bin\Debug\02.StudentCables.exe.config
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\02.StudentCables\bin\Debug\02.StudentCables.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\02.StudentCables\bin\Debug\02.StudentCables.pdb
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\02.StudentCables\obj\Debug\02.StudentCables.exe
+D:\SoftUni Homeworks\Judge\C# Basics Exam 14 April 2014 Evening\Exam 14 April 2014 Evening\02.StudentCables\obj\Debug\02.StudentCables.pdb

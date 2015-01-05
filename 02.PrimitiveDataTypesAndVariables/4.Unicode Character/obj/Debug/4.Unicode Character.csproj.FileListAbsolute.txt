@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\4.Unicode Character\bin\Debug\4.Unicode Character.exe.config
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\4.Unicode Character\bin\Debug\4.Unicode Character.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\4.Unicode Character\bin\Debug\4.Unicode Character.pdb
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\4.Unicode Character\obj\Debug\4.Unicode Character.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\4.Unicode Character\obj\Debug\4.Unicode Character.pdb

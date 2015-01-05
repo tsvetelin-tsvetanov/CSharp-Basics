@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.exe.config
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.pdb
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\1.Declare Variables.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\PrimitiveDataTypesAndVariables.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\PrimitiveDataTypesAndVariables.pdb

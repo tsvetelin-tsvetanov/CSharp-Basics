@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\14.ASCII Table\bin\Debug\14.ASCII Table.exe.config
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\14.ASCII Table\bin\Debug\14.ASCII Table.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\14.ASCII Table\bin\Debug\14.ASCII Table.pdb
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\14.ASCII Table\obj\Debug\14.ASCII Table.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\14.ASCII Table\obj\Debug\14.ASCII Table.pdb

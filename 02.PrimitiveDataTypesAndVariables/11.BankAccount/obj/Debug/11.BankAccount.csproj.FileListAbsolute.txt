@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\11.BankAccount\bin\Debug\11.BankAccount.exe.config
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\11.BankAccount\bin\Debug\11.BankAccount.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\11.BankAccount\bin\Debug\11.BankAccount.pdb
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\11.BankAccount\obj\Debug\11.BankAccount.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\11.BankAccount\obj\Debug\11.BankAccount.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\11.BankAccount\obj\Debug\11.BankAccount.pdb

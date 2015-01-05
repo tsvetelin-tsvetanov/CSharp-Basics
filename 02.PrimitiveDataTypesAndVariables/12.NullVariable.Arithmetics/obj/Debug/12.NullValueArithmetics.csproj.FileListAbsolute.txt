@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\12.NullVariable.Arithmetics\bin\Debug\12.NullVariable.Arithmetics.exe.config
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\12.NullVariable.Arithmetics\obj\Debug\12.NullVariable.Arithmetics.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\12.NullVariable.Arithmetics\obj\Debug\12.NullVariable.Arithmetics.pdb
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\12.NullVariable.Arithmetics\bin\Debug\12.NullVariable.Arithmetics.exe
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\12.NullVariable.Arithmetics\bin\Debug\12.NullVariable.Arithmetics.pdb
+D:\SoftUni Homeworks\Primitive Data Types And Variables\PrimitiveDataTypesAndVariables\12.NullVariable.Arithmetics\obj\Debug\12.NullValueArithmetics.csprojResolveAssemblyReference.cache

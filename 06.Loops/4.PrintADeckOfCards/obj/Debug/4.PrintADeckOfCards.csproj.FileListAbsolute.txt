@@ -1,0 +1,10 @@
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe.config
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.pdb
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.exe
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.pdb
+D:\SoftUni Homeworks\6.Loops\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe.config
+D:\SoftUni Homeworks\6.Loops\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.exe
+D:\SoftUni Homeworks\6.Loops\4.PrintADeckOfCards\obj\Debug\4.PrintADeckOfCards.pdb
+D:\SoftUni Homeworks\6.Loops\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.exe
+D:\SoftUni Homeworks\6.Loops\4.PrintADeckOfCards\bin\Debug\4.PrintADeckOfCards.pdb

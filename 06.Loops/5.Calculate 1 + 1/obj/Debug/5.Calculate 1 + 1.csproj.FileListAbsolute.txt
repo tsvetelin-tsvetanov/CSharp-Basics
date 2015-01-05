@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\6.Loops\5.Calculate 1 + 1\bin\Debug\5.Calculate 1 + 1.exe.config
+D:\SoftUni Homeworks\6.Loops\5.Calculate 1 + 1\obj\Debug\5.Calculate 1 + 1.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\6.Loops\5.Calculate 1 + 1\bin\Debug\5.Calculate 1 + 1.exe
+D:\SoftUni Homeworks\6.Loops\5.Calculate 1 + 1\bin\Debug\5.Calculate 1 + 1.pdb
+D:\SoftUni Homeworks\6.Loops\5.Calculate 1 + 1\obj\Debug\5.Calculate 1 + 1.exe
+D:\SoftUni Homeworks\6.Loops\5.Calculate 1 + 1\obj\Debug\5.Calculate 1 + 1.pdb

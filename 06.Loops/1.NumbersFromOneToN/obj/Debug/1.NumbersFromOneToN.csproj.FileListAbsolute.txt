@@ -1,0 +1,9 @@
+c:\users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\Loops\bin\Debug\Loops.exe.config
+c:\users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\Loops\bin\Debug\Loops.exe
+c:\users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\Loops\bin\Debug\Loops.pdb
+c:\users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\Loops\obj\Debug\1.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+c:\users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\Loops\obj\Debug\Loops.exe
+c:\users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\Loops\obj\Debug\Loops.pdb
+D:\SoftUni Homeworks\6.Loops\1.NumbersFromOneToN\bin\Debug\Loops.exe.config
+D:\SoftUni Homeworks\6.Loops\1.NumbersFromOneToN\obj\Debug\Loops.exe
+D:\SoftUni Homeworks\6.Loops\1.NumbersFromOneToN\obj\Debug\Loops.pdb

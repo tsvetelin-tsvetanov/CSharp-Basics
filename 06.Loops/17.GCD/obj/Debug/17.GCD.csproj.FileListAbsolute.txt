@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\6.Loops\17.GCD\bin\Debug\17.GCD.exe.config
+D:\SoftUni Homeworks\6.Loops\17.GCD\bin\Debug\17.GCD.exe
+D:\SoftUni Homeworks\6.Loops\17.GCD\bin\Debug\17.GCD.pdb
+D:\SoftUni Homeworks\6.Loops\17.GCD\obj\Debug\17.GCD.exe
+D:\SoftUni Homeworks\6.Loops\17.GCD\obj\Debug\17.GCD.pdb

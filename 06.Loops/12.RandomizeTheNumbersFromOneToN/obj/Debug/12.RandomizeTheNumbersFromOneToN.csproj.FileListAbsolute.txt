@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\6.Loops\12.RandomizeTheNumbersFromOneToN\bin\Debug\12.RandomizeTheNumbersFromOneToN.exe.config
+D:\SoftUni Homeworks\6.Loops\12.RandomizeTheNumbersFromOneToN\bin\Debug\12.RandomizeTheNumbersFromOneToN.exe
+D:\SoftUni Homeworks\6.Loops\12.RandomizeTheNumbersFromOneToN\bin\Debug\12.RandomizeTheNumbersFromOneToN.pdb
+D:\SoftUni Homeworks\6.Loops\12.RandomizeTheNumbersFromOneToN\obj\Debug\12.RandomizeTheNumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\6.Loops\12.RandomizeTheNumbersFromOneToN\obj\Debug\12.RandomizeTheNumbersFromOneToN.exe
+D:\SoftUni Homeworks\6.Loops\12.RandomizeTheNumbersFromOneToN\obj\Debug\12.RandomizeTheNumbersFromOneToN.pdb

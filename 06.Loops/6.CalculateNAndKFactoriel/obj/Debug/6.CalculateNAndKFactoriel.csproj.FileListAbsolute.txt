@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\6.Loops\6.CalculateNAndKFactoriel\bin\Debug\6.CalculateNAndKFactoriel.exe.config
+D:\SoftUni Homeworks\6.Loops\6.CalculateNAndKFactoriel\bin\Debug\6.CalculateNAndKFactoriel.exe
+D:\SoftUni Homeworks\6.Loops\6.CalculateNAndKFactoriel\bin\Debug\6.CalculateNAndKFactoriel.pdb
+D:\SoftUni Homeworks\6.Loops\6.CalculateNAndKFactoriel\obj\Debug\6.CalculateNAndKFactoriel.exe
+D:\SoftUni Homeworks\6.Loops\6.CalculateNAndKFactoriel\obj\Debug\6.CalculateNAndKFactoriel.pdb

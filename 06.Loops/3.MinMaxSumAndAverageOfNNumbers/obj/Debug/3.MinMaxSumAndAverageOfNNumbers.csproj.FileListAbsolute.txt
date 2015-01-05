@@ -1,0 +1,10 @@
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\3.MinMaxSumAndAverageOfNNumbers\bin\Debug\3.MinMaxSumAndAverageOfNNumbers.exe.config
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\3.MinMaxSumAndAverageOfNNumbers\bin\Debug\3.MinMaxSumAndAverageOfNNumbers.exe
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\3.MinMaxSumAndAverageOfNNumbers\bin\Debug\3.MinMaxSumAndAverageOfNNumbers.pdb
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\3.MinMaxSumAndAverageOfNNumbers\obj\Debug\3.MinMaxSumAndAverageOfNNumbers.exe
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\3.MinMaxSumAndAverageOfNNumbers\obj\Debug\3.MinMaxSumAndAverageOfNNumbers.pdb
+D:\SoftUni Homeworks\6.Loops\3.MinMaxSumAndAverageOfNNumbers\bin\Debug\3.MinMaxSumAndAverageOfNNumbers.exe.config
+D:\SoftUni Homeworks\6.Loops\3.MinMaxSumAndAverageOfNNumbers\obj\Debug\3.MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni Homeworks\6.Loops\3.MinMaxSumAndAverageOfNNumbers\obj\Debug\3.MinMaxSumAndAverageOfNNumbers.pdb
+D:\SoftUni Homeworks\6.Loops\3.MinMaxSumAndAverageOfNNumbers\bin\Debug\3.MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni Homeworks\6.Loops\3.MinMaxSumAndAverageOfNNumbers\bin\Debug\3.MinMaxSumAndAverageOfNNumbers.pdb

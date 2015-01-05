@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\6.Loops\18.TrailingZeroesInNFactoriel\bin\Debug\18.TrailingZeroesInNFactoriel.exe.config
+D:\SoftUni Homeworks\6.Loops\18.TrailingZeroesInNFactoriel\bin\Debug\18.TrailingZeroesInNFactoriel.exe
+D:\SoftUni Homeworks\6.Loops\18.TrailingZeroesInNFactoriel\bin\Debug\18.TrailingZeroesInNFactoriel.pdb
+D:\SoftUni Homeworks\6.Loops\18.TrailingZeroesInNFactoriel\obj\Debug\18.TrailingZeroesInNFactoriel.exe
+D:\SoftUni Homeworks\6.Loops\18.TrailingZeroesInNFactoriel\obj\Debug\18.TrailingZeroesInNFactoriel.pdb

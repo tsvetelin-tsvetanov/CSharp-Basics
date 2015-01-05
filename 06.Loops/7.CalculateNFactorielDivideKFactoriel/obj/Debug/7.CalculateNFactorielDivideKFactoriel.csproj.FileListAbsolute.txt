@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\6.Loops\7.CalculateNFactorielDivideKFactoriel\bin\Debug\7.CalculateNFactorielDivideKFactoriel.exe.config
+D:\SoftUni Homeworks\6.Loops\7.CalculateNFactorielDivideKFactoriel\bin\Debug\7.CalculateNFactorielDivideKFactoriel.exe
+D:\SoftUni Homeworks\6.Loops\7.CalculateNFactorielDivideKFactoriel\bin\Debug\7.CalculateNFactorielDivideKFactoriel.pdb
+D:\SoftUni Homeworks\6.Loops\7.CalculateNFactorielDivideKFactoriel\obj\Debug\7.CalculateNFactorielDivideKFactoriel.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\6.Loops\7.CalculateNFactorielDivideKFactoriel\obj\Debug\7.CalculateNFactorielDivideKFactoriel.exe
+D:\SoftUni Homeworks\6.Loops\7.CalculateNFactorielDivideKFactoriel\obj\Debug\7.CalculateNFactorielDivideKFactoriel.pdb

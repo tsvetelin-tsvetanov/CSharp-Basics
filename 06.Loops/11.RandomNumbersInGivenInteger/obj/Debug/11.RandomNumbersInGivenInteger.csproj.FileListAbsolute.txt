@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\6.Loops\11.RandomNumbersInGivenInteger\bin\Debug\11.RandomNumbersInGivenInteger.exe.config
+D:\SoftUni Homeworks\6.Loops\11.RandomNumbersInGivenInteger\bin\Debug\11.RandomNumbersInGivenInteger.exe
+D:\SoftUni Homeworks\6.Loops\11.RandomNumbersInGivenInteger\bin\Debug\11.RandomNumbersInGivenInteger.pdb
+D:\SoftUni Homeworks\6.Loops\11.RandomNumbersInGivenInteger\obj\Debug\11.RandomNumbersInGivenInteger.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\6.Loops\11.RandomNumbersInGivenInteger\obj\Debug\11.RandomNumbersInGivenInteger.exe
+D:\SoftUni Homeworks\6.Loops\11.RandomNumbersInGivenInteger\obj\Debug\11.RandomNumbersInGivenInteger.pdb

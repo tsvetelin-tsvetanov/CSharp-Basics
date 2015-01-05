@@ -1,0 +1,12 @@
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\2.NumbersNotDivisableByThreeAndSeven\bin\Debug\2.NumbersNotDivisableByThreeAndSeven.exe.config
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\2.NumbersNotDivisableByThreeAndSeven\bin\Debug\2.NumbersNotDivisableByThreeAndSeven.exe
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\2.NumbersNotDivisableByThreeAndSeven\bin\Debug\2.NumbersNotDivisableByThreeAndSeven.pdb
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\2.NumbersNotDivisableByThreeAndSeven\obj\Debug\2.NumbersNotDivisableByThreeAndSeven.csprojResolveAssemblyReference.cache
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\2.NumbersNotDivisableByThreeAndSeven\obj\Debug\2.NumbersNotDivisableByThreeAndSeven.exe
+c:\Users\tsvetelin\documents\visual studio 2013\Projects\1.NumbersFromOneToN\2.NumbersNotDivisableByThreeAndSeven\obj\Debug\2.NumbersNotDivisableByThreeAndSeven.pdb
+D:\SoftUni Homeworks\6.Loops\2.NumbersNotDivisableByThreeAndSeven\bin\Debug\2.NumbersNotDivisableByThreeAndSeven.exe.config
+D:\SoftUni Homeworks\6.Loops\2.NumbersNotDivisableByThreeAndSeven\obj\Debug\2.NumbersNotDivisableByThreeAndSeven.exe
+D:\SoftUni Homeworks\6.Loops\2.NumbersNotDivisableByThreeAndSeven\obj\Debug\2.NumbersNotDivisableByThreeAndSeven.pdb
+D:\SoftUni Homeworks\6.Loops\2.NumbersNotDivisableByThreeAndSeven\bin\Debug\2.NumbersNotDivisableByThreeAndSeven.exe
+D:\SoftUni Homeworks\6.Loops\2.NumbersNotDivisableByThreeAndSeven\bin\Debug\2.NumbersNotDivisableByThreeAndSeven.pdb
+D:\SoftUni Homeworks\6.Loops\2.NumbersNotDivisableByThreeAndSeven\obj\Debug\2.NumbersNotDivisableByThreeAndSeven.csprojResolveAssemblyReference.cache

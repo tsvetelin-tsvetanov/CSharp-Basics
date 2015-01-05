@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\3.CirclePerimeterAndArea\bin\Debug\3.CirclePerimeterAndArea.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\3.CirclePerimeterAndArea\obj\Debug\3.CirclePerimeterAndArea.pdb

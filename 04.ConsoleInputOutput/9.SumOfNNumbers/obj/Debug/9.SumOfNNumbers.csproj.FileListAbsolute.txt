@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\9.SumOfNNumbers\bin\Debug\9.SumOfNNumbers.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\9.SumOfNNumbers\obj\Debug\9.SumOfNNumbers.pdb

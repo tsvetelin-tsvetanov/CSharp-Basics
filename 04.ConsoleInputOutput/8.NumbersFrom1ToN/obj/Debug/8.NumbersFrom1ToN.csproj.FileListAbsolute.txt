@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\8.NumbersFrom1ToN\bin\Debug\8.NumbersFrom1ToN.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\8.NumbersFrom1ToN\obj\Debug\8.NumbersFrom1ToN.pdb

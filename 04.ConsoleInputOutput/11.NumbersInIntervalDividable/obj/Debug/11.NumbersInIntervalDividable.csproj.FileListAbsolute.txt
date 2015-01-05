@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\11.NumbersInIntervalDividable\bin\Debug\11.NumbersInIntervalDividable.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\11.NumbersInIntervalDividable\bin\Debug\11.NumbersInIntervalDividable.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\11.NumbersInIntervalDividable\bin\Debug\11.NumbersInIntervalDividable.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\11.NumbersInIntervalDividable\obj\Debug\11.NumbersInIntervalDividable.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\11.NumbersInIntervalDividable\obj\Debug\11.NumbersInIntervalDividable.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\11.NumbersInIntervalDividable\obj\Debug\11.NumbersInIntervalDividable.pdb

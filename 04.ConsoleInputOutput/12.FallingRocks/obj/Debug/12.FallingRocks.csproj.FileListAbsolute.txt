@@ -1,0 +1,7 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+D:\SoftUni Homeworks\4.ConsoleInputOutput\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+D:\SoftUni Homeworks\4.ConsoleInputOutput\12.FallingRocks\obj\Debug\12.FallingRocks.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\4.ConsoleInputOutput\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+D:\SoftUni Homeworks\4.ConsoleInputOutput\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+D:\SoftUni Homeworks\4.ConsoleInputOutput\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+D:\SoftUni Homeworks\4.ConsoleInputOutput\12.FallingRocks\obj\Debug\12.FallingRocks.pdb

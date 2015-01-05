@@ -1,0 +1,9 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.ConsoleInputOutput\obj\Debug\1.SumOf3Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.ConsoleInputOutput\bin\Debug\4.ConsoleInputOutput.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.ConsoleInputOutput\bin\Debug\4.ConsoleInputOutput.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.ConsoleInputOutput\bin\Debug\4.ConsoleInputOutput.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.ConsoleInputOutput\obj\Debug\4.ConsoleInputOutput.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.ConsoleInputOutput\obj\Debug\4.ConsoleInputOutput.pdb
+D:\SoftUni Homeworks\4.ConsoleInputOutput\4.ConsoleInputOutput\bin\Debug\4.ConsoleInputOutput.exe.config
+D:\SoftUni Homeworks\4.ConsoleInputOutput\4.ConsoleInputOutput\obj\Debug\4.ConsoleInputOutput.exe
+D:\SoftUni Homeworks\4.ConsoleInputOutput\4.ConsoleInputOutput\obj\Debug\4.ConsoleInputOutput.pdb

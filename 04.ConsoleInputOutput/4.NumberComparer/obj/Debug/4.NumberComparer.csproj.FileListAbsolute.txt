@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.NumberComparer\bin\Debug\4.NumberComparer.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.NumberComparer\bin\Debug\4.NumberComparer.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\4.NumberComparer\obj\Debug\4.NumberComparer.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

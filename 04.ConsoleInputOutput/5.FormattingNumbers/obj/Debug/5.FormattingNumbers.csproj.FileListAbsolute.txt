@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\5.FormattingNumbers\bin\Debug\5.FormattingNumbers.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\5.FormattingNumbers\obj\Debug\5.FormattingNumbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe.config
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.pdb
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+D:\SoftUni Homeworks\OperatorsAndExpressions\4.ConsoleInputOutput\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb

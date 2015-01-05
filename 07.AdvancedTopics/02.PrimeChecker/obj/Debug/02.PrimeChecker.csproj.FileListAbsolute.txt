@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

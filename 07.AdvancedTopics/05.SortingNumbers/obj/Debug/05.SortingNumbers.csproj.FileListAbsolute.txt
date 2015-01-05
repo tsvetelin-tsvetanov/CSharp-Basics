@@ -1,0 +1,5 @@
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+D:\SoftUni Homeworks\7.AdvancedTopics\07.AdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

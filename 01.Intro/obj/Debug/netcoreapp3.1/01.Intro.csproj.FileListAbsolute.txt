@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\01.Intro\01.Intro\bin\Debug\netcoreapp3.1\01.Intro.exe
+C:\Users\Acer\source\repos\01.Intro\01.Intro\bin\Debug\netcoreapp3.1\01.Intro.deps.json
+C:\Users\Acer\source\repos\01.Intro\01.Intro\bin\Debug\netcoreapp3.1\01.Intro.runtimeconfig.json
+C:\Users\Acer\source\repos\01.Intro\01.Intro\bin\Debug\netcoreapp3.1\01.Intro.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\01.Intro\01.Intro\bin\Debug\netcoreapp3.1\01.Intro.dll
+C:\Users\Acer\source\repos\01.Intro\01.Intro\bin\Debug\netcoreapp3.1\01.Intro.pdb
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.AssemblyInfo.cs
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.dll
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.pdb
+C:\Users\Acer\source\repos\01.Intro\01.Intro\obj\Debug\netcoreapp3.1\01.Intro.genruntimeconfig.cache
